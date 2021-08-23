@@ -5,3 +5,4 @@
 * [Standford class on compiler](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 * [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/)
 * [Subtype Inference by Example](https://github.com/Storyyeller/cubiml-demo)
+* [Basic compiler design](http://hjemmesider.diku.dk/%7Etorbenm/Basics/basics_lulu2.pdf)
