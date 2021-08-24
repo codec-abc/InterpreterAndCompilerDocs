@@ -6,3 +6,4 @@
 * [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/)
 * [Subtype Inference by Example](https://github.com/Storyyeller/cubiml-demo)
 * [Basic compiler design](http://hjemmesider.diku.dk/%7Etorbenm/Basics/basics_lulu2.pdf)
+* [Hindley-Milner tutorial](https://rickyhan.com/jekyll/update/2018/05/26/hindley-milner-tutorial-rust.html)
